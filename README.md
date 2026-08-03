@@ -3,5 +3,3 @@ Este proyecto desarrolla una solución de clasificación multiclase mediante té
 
 # Dataset:
 El dataset utilizado es Estimation of Obesity Levels Based on Eating Habits and Physical Condition. Contiene 2,111 registros con 16 variables independientes y una variable objetivo con 7 clases de nivel de obesidad.
-
-Video: https://youtu.be/b6cf-imrcQk 
